@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minitraktor-b45f21.vercel.app/sitemap.xml
