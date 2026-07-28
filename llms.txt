@@ -15,6 +15,15 @@
 - [delivery](https://minitraktor-b45f21-pi.vercel.app/delivery.html)
 - [promo](https://minitraktor-b45f21-pi.vercel.app/promo.html)
 
+## Статьи блога
+- [kak smenit maslo v minitraktore delayu eto sam](https://minitraktor-b45f21-pi.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html)
+- [kak vybrat minitraktor poshagovyj razbor](https://minitraktor-b45f21-pi.vercel.app/posts/kak-vybrat-minitraktor-poshagovyj-razbor.html)
+- [minitraktor kak vybrat na chto obratit vnimanie i chego izbegat](https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-kak-vybrat-na-chto-obratit-vnimanie-i-chego-izbegat.html)
+- [vyborminitraktora v 2026 godu kriterii tseny chek list](https://minitraktor-b45f21-pi.vercel.app/posts/vyborminitraktora-v-2026-godu-kriterii-tseny-chek-list.html)
+- [minitraktor vybor ekspluatatsiya i rasprostrannnye oshibki](https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-vybor-ekspluatatsiya-i-rasprostrannnye-oshibki.html)
+- [sem prakticheskikh rekomendatsij po vyboruminitraktora](https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora.html)
+- [sem prakticheskikh rekomendatsij po vyboruminitraktora 2](https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora-2.html)
+
 ## About
 ООО «МиниТрактор+» работает с 2018. Специализация: Наш блог посвящен минитракторам - незаменимым помощникам в.
 Регион: г. Москва, ул. Профсоюзная, д. 115, корп. 1, офис 203.

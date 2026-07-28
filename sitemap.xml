@@ -96,4 +96,53 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html</loc>
+    <lastmod>2026-05-04</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/kak-vybrat-minitraktor-poshagovyj-razbor.html</loc>
+    <lastmod>2026-05-21</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-kak-vybrat-na-chto-obratit-vnimanie-i-chego-izbegat.html</loc>
+    <lastmod>2026-05-09</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/vyborminitraktora-v-2026-godu-kriterii-tseny-chek-list.html</loc>
+    <lastmod>2026-04-22</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-vybor-ekspluatatsiya-i-rasprostrannnye-oshibki.html</loc>
+    <lastmod>2026-04-19</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora.html</loc>
+    <lastmod>2026-03-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora-2.html</loc>
+    <lastmod>2026-03-13</lastmod>
+
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
