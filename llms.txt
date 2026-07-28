@@ -1,29 +1,29 @@
-# Минитрактор
-> Мы — команда энтузиастов, увлеченных минитракторами и сельскохозяйственной техникой. Наш сайт "Минитрактор" был создан для того, чтобы стать надежным источником информации для всех, кто интересуется этим видом техники, от начинающих фермеров до опытных аграриев. Мы стремимся пред
+# Минитрактор - ваши помощники в поле
+> Наш блог посвящен минитракторам - незаменимым помощникам в сельском хозяйстве и на дачных участках. Здесь вы найдете обзоры моделей, советы по выбору и эксплуатации, а также полезные лайфхаки для повышения эффективности вашей работы. Мы стремимся предоставить максимально полезную
 
 ## Pages
-- [Главная](https://minitraktor-b45f21.vercel.app/): главная страница — Минитрактор
-- [О нас](https://minitraktor-b45f21.vercel.app/about.html): информация о компании и команде
-- [Контакты](https://minitraktor-b45f21.vercel.app/contacts.html): контактные данные и адрес
-- [Блог](https://minitraktor-b45f21.vercel.app/blog/): статьи по теме «Мы — команда энтузиастов, увлеченных минитракторами и»
-- [vacancies](https://minitraktor-b45f21.vercel.app/vacancies.html)
-- [portfolio](https://minitraktor-b45f21.vercel.app/portfolio.html)
-- [reviews](https://minitraktor-b45f21.vercel.app/reviews.html)
-- [faq](https://minitraktor-b45f21.vercel.app/faq.html)
-- [pricing](https://minitraktor-b45f21.vercel.app/pricing.html)
-- [guarantees](https://minitraktor-b45f21.vercel.app/guarantees.html)
-- [delivery](https://minitraktor-b45f21.vercel.app/delivery.html)
-- [promo](https://minitraktor-b45f21.vercel.app/promo.html)
+- [Главная](https://minitraktor-b45f21-pi.vercel.app/): главная страница — Минитрактор - ваши помощники в поле
+- [О нас](https://minitraktor-b45f21-pi.vercel.app/about.html): информация о компании и команде
+- [Контакты](https://minitraktor-b45f21-pi.vercel.app/contacts.html): контактные данные и адрес
+- [Блог](https://minitraktor-b45f21-pi.vercel.app/blog/): статьи по теме «Наш блог посвящен минитракторам - незаменимым помощникам в»
+- [vacancies](https://minitraktor-b45f21-pi.vercel.app/vacancies.html)
+- [portfolio](https://minitraktor-b45f21-pi.vercel.app/portfolio.html)
+- [reviews](https://minitraktor-b45f21-pi.vercel.app/reviews.html)
+- [faq](https://minitraktor-b45f21-pi.vercel.app/faq.html)
+- [pricing](https://minitraktor-b45f21-pi.vercel.app/pricing.html)
+- [guarantees](https://minitraktor-b45f21-pi.vercel.app/guarantees.html)
+- [delivery](https://minitraktor-b45f21-pi.vercel.app/delivery.html)
+- [promo](https://minitraktor-b45f21-pi.vercel.app/promo.html)
 
 ## Статьи блога
-- [kak smenit maslo v minitraktore delayu eto sam](https://minitraktor-b45f21.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html)
-- [kak vybrat minitraktor poshagovyj razbor](https://minitraktor-b45f21.vercel.app/posts/kak-vybrat-minitraktor-poshagovyj-razbor.html)
-- [minitraktor kak vybrat na chto obratit vnimanie i chego izbegat](https://minitraktor-b45f21.vercel.app/posts/minitraktor-kak-vybrat-na-chto-obratit-vnimanie-i-chego-izbegat.html)
-- [vyborminitraktora v 2026 godu kriterii tseny chek list](https://minitraktor-b45f21.vercel.app/posts/vyborminitraktora-v-2026-godu-kriterii-tseny-chek-list.html)
-- [minitraktor vybor ekspluatatsiya i rasprostrannnye oshibki](https://minitraktor-b45f21.vercel.app/posts/minitraktor-vybor-ekspluatatsiya-i-rasprostrannnye-oshibki.html)
-- [sem prakticheskikh rekomendatsij po vyboruminitraktora](https://minitraktor-b45f21.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora.html)
-- [sem prakticheskikh rekomendatsij po vyboruminitraktora 2](https://minitraktor-b45f21.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora-2.html)
+- [kak smenit maslo v minitraktore delayu eto sam](https://minitraktor-b45f21-pi.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html)
+- [kak vybrat minitraktor poshagovyj razbor](https://minitraktor-b45f21-pi.vercel.app/posts/kak-vybrat-minitraktor-poshagovyj-razbor.html)
+- [minitraktor kak vybrat na chto obratit vnimanie i chego izbegat](https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-kak-vybrat-na-chto-obratit-vnimanie-i-chego-izbegat.html)
+- [vyborminitraktora v 2026 godu kriterii tseny chek list](https://minitraktor-b45f21-pi.vercel.app/posts/vyborminitraktora-v-2026-godu-kriterii-tseny-chek-list.html)
+- [minitraktor vybor ekspluatatsiya i rasprostrannnye oshibki](https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-vybor-ekspluatatsiya-i-rasprostrannnye-oshibki.html)
+- [sem prakticheskikh rekomendatsij po vyboruminitraktora](https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora.html)
+- [sem prakticheskikh rekomendatsij po vyboruminitraktora 2](https://minitraktor-b45f21-pi.vercel.app/posts/sem-prakticheskikh-rekomendatsij-po-vyboruminitraktora-2.html)
 
 ## About
-ООО «МиниТрактор+» работает с 2018. Специализация: Мы — команда энтузиастов, увлеченных минитракторами и.
+ООО «МиниТрактор+» работает с 2018. Специализация: Наш блог посвящен минитракторам - незаменимым помощникам в.
 Регион: г. Москва, ул. Профсоюзная, д. 115, корп. 1, офис 203.
