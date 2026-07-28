@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://minitraktor-b45f21-seopartner71-uxs-projects.vercel.app/sitemap.xml
+Sitemap: https://minitraktor-b45f21.vercel.app/sitemap.xml
