@@ -16,6 +16,7 @@
 - [promo](https://minitraktor-b45f21-pi.vercel.app/promo.html)
 
 ## Статьи блога
+- [tekhnicheskoe obsluzhivanie minitraktora moj opyt i klyuchevye aspekty](https://minitraktor-b45f21-pi.vercel.app/posts/tekhnicheskoe-obsluzhivanie-minitraktora-moj-opyt-i-klyuchevye-aspekty.html)
 - [kak smenit maslo v minitraktore delayu eto sam](https://minitraktor-b45f21-pi.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html)
 - [kak vybrat minitraktor poshagovyj razbor](https://minitraktor-b45f21-pi.vercel.app/posts/kak-vybrat-minitraktor-poshagovyj-razbor.html)
 - [minitraktor kak vybrat na chto obratit vnimanie i chego izbegat](https://minitraktor-b45f21-pi.vercel.app/posts/minitraktor-kak-vybrat-na-chto-obratit-vnimanie-i-chego-izbegat.html)

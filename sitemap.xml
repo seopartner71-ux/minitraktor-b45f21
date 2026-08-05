@@ -57,6 +57,10 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://minitraktor-b45f21-pi.vercel.app/posts/tekhnicheskoe-obsluzhivanie-minitraktora-moj-opyt-i-klyuchevye-aspekty.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://minitraktor-b45f21-pi.vercel.app/posts/kak-smenit-maslo-v-minitraktore-delayu-eto-sam.html</loc>
     <priority>0.6</priority>
   </url>
