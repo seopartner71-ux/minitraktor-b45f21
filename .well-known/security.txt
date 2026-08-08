@@ -1,3 +1,3 @@
 Contact: mailto:editor@minitraktor-b45f21-pi.vercel.app
-Expires: 2027-08-06T06:08:10.139Z
+Expires: 2027-08-08T11:31:12.031Z
 Preferred-Languages: ru
